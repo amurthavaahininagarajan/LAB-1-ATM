@@ -20,13 +20,21 @@ to withdraw money,deposit.
  5. Execute it.
 
 ### UML DIAGRAMS:
-![use case](https://github.com/Augustine0306/LAB-1-ATM/assets/119404460/53ae5b2e-0953-4827-ab07-f7c0e4c9d7dd)
-![class](https://github.com/Augustine0306/LAB-1-ATM/assets/119404460/f0b9d0f2-7b42-47c9-b79c-aa2b3bc56ecd)
-![package](https://github.com/Augustine0306/LAB-1-ATM/assets/119404460/1b07c55f-8fca-4451-8df3-5091789b2518)
-![communication](https://github.com/Augustine0306/LAB-1-ATM/assets/119404460/babd7832-651c-4586-bec3-0a8dd3b02466)
-![sequence](https://github.com/Augustine0306/LAB-1-ATM/assets/119404460/5508ade5-b637-44f0-8fc3-3af3bc886993)
-![state chart](https://github.com/Augustine0306/LAB-1-ATM/assets/119404460/36703082-4504-45bd-80b9-9f469f77956b)
-![activity](https://github.com/Augustine0306/LAB-1-ATM/assets/119404460/8248841c-b0f2-4865-b8d9-2dc30353c19e)
+# USE CASE DIAGRAM:
+![usecase atm](https://github.com/amurthavaahininagarajan/LAB-1-ATM/assets/118679102/dd475c80-14d7-40da-b3db-ca2399e824bf)
+# SEQUENCE DIAGRAM:
+![SequenceDiagram atm](https://github.com/amurthavaahininagarajan/LAB-1-ATM/assets/118679102/b9f38590-589a-42af-92b1-4f1aa334bab4)
+# CLASS DIAGRAM:
+![ClassDiagram atm](https://github.com/amurthavaahininagarajan/LAB-1-ATM/assets/118679102/38bdb5dc-9267-4444-81ab-bfd254418f3d)
+# STATE CHART DIAGRAM:
+![StatechartDiagram atm](https://github.com/amurthavaahininagarajan/LAB-1-ATM/assets/118679102/da7af093-d289-48af-86e8-662a5842a596)
+# ACTIVITY DIAGRAM:
+![ActivityDiagramtrans](https://github.com/amurthavaahininagarajan/LAB-1-ATM/assets/118679102/d53def21-0007-4817-995e-c770c7e973b2)
+# COMMUNICATION DIAGRAM:
+![image](https://github.com/amurthavaahininagarajan/LAB-1-ATM/assets/118679102/f25b1784-e792-4598-bae6-7123faca7139)
+# PACKAGE DIAGRAM:
+![PackageDiagram(ATM)](https://github.com/amurthavaahininagarajan/LAB-1-ATM/assets/118679102/fef6fe2a-13d0-4ffd-9569-d1820b80b71a)
+
 
 
 ### RESULT: 
